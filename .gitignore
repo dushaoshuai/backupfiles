@@ -2,3 +2,4 @@ html/
 Linux/kernel/
 Linux/mechanism_of_setuid_and_passwd.m4a
 Linux/vim_usage
+*.out

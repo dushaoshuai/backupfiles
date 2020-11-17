@@ -1,1 +1,0 @@
-tupe int efg;
